@@ -1,0 +1,12 @@
+# Ignore dataset directory
+data/
+
+# Ignore log files
+log.txt
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
