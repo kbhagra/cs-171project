@@ -10,3 +10,7 @@ __pycache__/
 
 # Ignore OS files
 .DS_Store
+
+# Ignore Jupyter Notebooks
+*.ipynb
+
